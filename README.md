@@ -24,5 +24,5 @@
 
 ### CONNECT WITH ME
 
-<p align="left"> <a href="https://www.google.com/search?q=https://instagram.com/whokilledzer0" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> 
+<p align="left"> <a href="https://instagram.com/whokilledzer0" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> 
   <a href="https://linkedin.com/in/vansh-kalawatia" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> </p>
