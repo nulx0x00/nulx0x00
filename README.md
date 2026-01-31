@@ -17,7 +17,7 @@
 ### 📊 SYSTEM_METRICS (nulx0x00)
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pr0jzer0&layout=compact&theme=tokyonight&hide_border=true&langs_count=5" alt="top langs" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nulx0x00&layout=compact&theme=tokyonight&hide_border=true&langs_count=5" alt="top langs" height="150" />
 </p>
       
 ---
