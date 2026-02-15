@@ -11,7 +11,7 @@
 > USER: Vansh Kalawatia
 > LEVEL: 2nd Year CSE Student (Jaipur, IN)
 > ENVIRONMENT: ROOT
-> CURRENT_FOCUS: Python an Java Security Automation & OSINT
+> CURRENT_FOCUS: Python and Java Security Automation & OSINT
 ```
 <!---
 github-readme-stat
