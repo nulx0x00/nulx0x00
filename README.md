@@ -1,4 +1,4 @@
-# ⚡ Vansh Kalawatia // NULX_SECUITY ⚡
+# ⚡ Vansh Kalawatia // NULX_SECURITY ⚡
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,py,bash,mysql,git,docker,postman,pycharm" />
