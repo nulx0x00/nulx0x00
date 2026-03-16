@@ -1,7 +1,7 @@
 # ⚡ Vansh Kalawatia // NULX_SECURITY ⚡
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,py,bash,mysql,git,docker,postman,pycharm" />
+  <img src="https://skillicons.dev/icons?i=linux,py,bash,git,java" />
 </p>
 
 ---
